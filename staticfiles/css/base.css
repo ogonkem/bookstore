@@ -1,0 +1,16 @@
+/* static/css/base.css */
+body{
+    min-height: 75rem;
+    padding-top: 4.5rem;
+}
+
+h1 {
+    color: red;
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+
+img.bookcover {
+    height: 300px;
+    width: auto;
+}
